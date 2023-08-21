@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ejmcfarland23
+- 👀 I’m interested in data science and artificial intelligence!
+- 🌱 I’m currently going to school for computer science with a concentration of data science.
